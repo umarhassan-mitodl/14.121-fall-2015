@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of assigned readings by lecture session
   and topic.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -13,7 +15,7 @@ Textbooks
 ---------
 
 *   \[MWG\] = Mas-Colell, Andreu, Michael Dennis Whinston, and Jerry R. Green. _Microeconomic Theory_. Vol. 1. Oxford University Press, 1995. ISBN: 9780195073409.
-*   \[Kreps\] = Kreps, David M. _Microeconomic Foundations I: Choice and Competitive Markets_. Vol. 1. Princeton University Press, 2012. ISBN: 9780691155838. \[Preview with {{% resource_link "f2f54509-adcf-4aa1-919b-847666078a3c" "Google Books" %}}\]
+*   \[Kreps\] = Kreps, David M. _Microeconomic Foundations I: Choice and Competitive Markets_. Vol. 1. Princeton University Press, 2012. ISBN: 9780691155838. \[Preview with [Google Books](http://books.google.com/books?id=8tW9KAnkx04C&pg=PAfrontcover)\]
 
 {{< tableopen >}}
 {{< theadopen >}}
