@@ -24,7 +24,6 @@
     "website": "14-121-microeconomic-theory-i-fall-2015"
   },
   "course_title": "Microeconomic Theory I",
-  "hide_download": true,
   "course_description": "This half-semester course provides an introduction to microeconomic theory designed to meet the needs of students in an economics Ph.D. program. Some parts of the course are designed to teach material that all graduate students should know. Others are used to introduce methodologies. Students should be comfortable with multivariable calculus, linear algebra, and basic real analysis.\n",
   "department_numbers": [
     "14"
@@ -35,7 +34,6 @@
     "content": "b2128e7d-a691-d36d-df5c-ef73d835a2e3",
     "website": "14-121-microeconomic-theory-i-fall-2015"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams",

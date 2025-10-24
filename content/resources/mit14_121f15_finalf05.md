@@ -4,8 +4,6 @@ description: 'This file contains information regarding practice final exam. '
 file: /courses/14-121-microeconomic-theory-i-fall-2015/8c53f4b3044606ae31d2b22dff38dfd3_MIT14_121F15_finalf05.pdf
 file_size: 126058
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
