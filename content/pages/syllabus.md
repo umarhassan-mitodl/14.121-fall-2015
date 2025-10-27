@@ -29,7 +29,7 @@ The course assumes that students have taken undergraduate intermediate microecon
 ## Textbooks
 
 - Mas-Colell, Andreu, Michael Dennis Whinston, and Jerry R. Green. *Microeconomic Theory*. Vol. 1. Oxford University Press, 1995. ISBN: 9780195073409.
-- Kreps, David M. *Microeconomic Foundations I: Choice and Competitive Markets*. Vol. 1. Princeton University Press, 2012. ISBN: 9780691155838. \[Preview with [Google Books](http://books.google.com/books?id=8tW9KAnkx04C&pg=PAfrontcover)\]
+- Kreps, David M. *Microeconomic Foundations I: Choice and Competitive Markets*. Vol. 1. Princeton University Press, 2012. ISBN: 9780691155838. \[Preview with {{% resource_link "d7507d8b-06fd-4f1f-8853-2c3121a6078d" "Google Books" %}}\]
 
 ## Grading and Requirements
 
